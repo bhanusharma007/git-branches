@@ -1,0 +1,3 @@
+this is my second file in second branch
+this is in second branch 
+this is the concept of git branches delete, merge, add n all
